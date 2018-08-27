@@ -1,3 +1,5 @@
+## Virtualized pokemons
+
 Exploration of the capabilities of `react-virtualized`.
 
 [CodeSandbox](https://codesandbox.io/s/github/ptbrowne/playgrounds/tree/master/scrub-list)
