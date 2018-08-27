@@ -1,5 +1,4 @@
-{
-    "data": [
+export default [
     {
         "abilities": [
             "Overgrow"
@@ -24008,4 +24007,3 @@
         ]
     }
 ]
-}
