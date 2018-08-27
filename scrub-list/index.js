@@ -1,6 +1,6 @@
 import React from 'react'
 import ReactDOM from 'react-dom'
-import { List, WindowScroller, AutoSizer } from '../../react-virtualized/dist/es'
+import { List, WindowScroller, AutoSizer } from 'react-virtualized'
 import _pokemons from './pokemons.js'
 import uniqBy from 'lodash/uniqBy'
 import throttle from 'lodash/throttle'
